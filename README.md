@@ -1,16 +1,24 @@
 # quotes_app
 
-A new Flutter project.
+Flutter application that displays inspiring quotes while showcasing modern mobile development practices.
+The project was built as part of my DEPI internship to practice and implement advanced Flutter concepts.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🗄 Hive Local Database – store and retrieve quotes offline.
 
-A few resources to get you started if this is your first Flutter project:
+🔄 Cubit State Management – manage app state in a clean, predictable way.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌐 Dio for Networking – fetch quotes from a remote server with error handling.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Animations – smooth and engaging UI transitions.
+
+🛠️ Technologies Used
+
+Flutter
+
+Hive
+
+Bloc / Cubit
+
+Dio
